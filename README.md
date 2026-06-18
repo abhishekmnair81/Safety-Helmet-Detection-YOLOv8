@@ -1,4 +1,4 @@
-# 🦺 Safety Helmet Detection using YOLOv8
+#  Safety Helmet Detection using YOLOv8
 
 ## Internship Information
 
